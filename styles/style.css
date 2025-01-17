@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+    font-family: "Lato", serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+}
+
+section , .hero{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+
+
+
+
+/* Header Part */
+
+header{
+    background: rgba(229, 84, 115, 0.1);
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
